@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashi Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdpNnp2b2w3b252eWY3b3Y0N3E2YjR2bGd0cXEwbnU4ZnozeGc0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp"/>
+ <img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/101664086?v=4"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzshashi07&label=Profile%20views&color=0e75b6&style=flat" alt="itzshashi07" /> </p>
 
 - 🔭 I’m currently working on [Job Automation](https://job-automation-frontend.vercel.app/)
